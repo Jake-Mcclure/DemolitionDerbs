@@ -15,10 +15,6 @@
 		{
 			"Name": "ApexDestruction",
 			"Enabled": true
-		},
-		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
 		}
 	]
 }
